@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhantarhana&label=Profile%20views&color=0e75b6&style=flat" alt="erhantarhana" /> </p>
 
-- 🌱 I’m currently learning **C# and Python Programming**
+- 🌱 I’m currently learning **Web Programming**
 
 - 💬 Ask me about **C, Java and JavaFX**
 
